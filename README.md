@@ -1,7 +1,7 @@
 **`chem_interp`**: use interpretable machine learning to explain complicated chemical reactions!
 
 <p align="center">
-<a src="./assets/movie.gif" width="800" /></a>
+<a><img src="./assets/movie.gif" width="800" /></a>
 </p>
 
 Usually molecular dynamics has so much information, it's tough to make sense of it all. But what if 
